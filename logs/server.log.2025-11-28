@@ -1,0 +1,129 @@
+[2m2025-11-28T21:10:27.551653Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/get_fuels14409031549969602795
+[2m2025-11-28T21:10:27.551737Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/buy_fuel14409031549969602795
+[2m2025-11-28T21:10:27.551802Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/update_fuel_price14409031549969602795
+[2m2025-11-28T21:10:27.551837Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/fetch_fuel_prices14409031549969602795
+[2m2025-11-28T21:10:27.551876Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/register_user14409031549969602795
+[2m2025-11-28T21:10:27.551937Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/get_bank_info14409031549969602795
+[2m2025-11-28T21:10:27.551972Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/refill_fuel14409031549969602795
+[2m2025-11-28T21:10:27.552023Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/login_admin14409031549969602795
+[2m2025-11-28T21:10:27.552072Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/login_user14409031549969602795
+[2m2025-11-28T21:14:05.757768Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/get_fuels14409031549969602795
+[2m2025-11-28T21:14:05.757871Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/buy_fuel14409031549969602795
+[2m2025-11-28T21:14:05.757908Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/update_fuel_price14409031549969602795
+[2m2025-11-28T21:14:05.757936Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/fetch_fuel_prices14409031549969602795
+[2m2025-11-28T21:14:05.757964Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/register_user14409031549969602795
+[2m2025-11-28T21:14:05.757994Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/get_bank_info14409031549969602795
+[2m2025-11-28T21:14:05.758025Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/refill_fuel14409031549969602795
+[2m2025-11-28T21:14:05.758069Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/login_admin14409031549969602795
+[2m2025-11-28T21:14:05.758110Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/login_user14409031549969602795
+[2m2025-11-28T21:16:29.532403Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/get_fuels14409031549969602795
+[2m2025-11-28T21:16:29.532506Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/buy_fuel14409031549969602795
+[2m2025-11-28T21:16:29.532569Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/update_fuel_price14409031549969602795
+[2m2025-11-28T21:16:29.532644Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/fetch_fuel_prices14409031549969602795
+[2m2025-11-28T21:16:29.532706Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/register_user14409031549969602795
+[2m2025-11-28T21:16:29.532761Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/get_bank_info14409031549969602795
+[2m2025-11-28T21:16:29.532829Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/refill_fuel14409031549969602795
+[2m2025-11-28T21:16:29.532878Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/login_admin14409031549969602795
+[2m2025-11-28T21:16:29.532953Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/login_user14409031549969602795
+[2m2025-11-28T21:19:59.736668Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/get_fuels14409031549969602795
+[2m2025-11-28T21:19:59.736752Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/buy_fuel14409031549969602795
+[2m2025-11-28T21:19:59.736787Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/update_fuel_price14409031549969602795
+[2m2025-11-28T21:19:59.736833Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/fetch_fuel_prices14409031549969602795
+[2m2025-11-28T21:19:59.736867Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/register_user14409031549969602795
+[2m2025-11-28T21:19:59.736891Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/get_bank_info14409031549969602795
+[2m2025-11-28T21:19:59.736916Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/refill_fuel14409031549969602795
+[2m2025-11-28T21:19:59.736948Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/login_admin14409031549969602795
+[2m2025-11-28T21:19:59.736982Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/login_user14409031549969602795
+[2m2025-11-28T21:20:38.415359Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/get_fuels14409031549969602795
+[2m2025-11-28T21:20:38.415483Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/buy_fuel14409031549969602795
+[2m2025-11-28T21:20:38.415568Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/update_fuel_price14409031549969602795
+[2m2025-11-28T21:20:38.415649Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/fetch_fuel_prices14409031549969602795
+[2m2025-11-28T21:20:38.415726Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/register_user14409031549969602795
+[2m2025-11-28T21:20:38.415805Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/get_bank_info14409031549969602795
+[2m2025-11-28T21:20:38.415890Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/refill_fuel14409031549969602795
+[2m2025-11-28T21:20:38.415974Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/login_admin14409031549969602795
+[2m2025-11-28T21:20:38.416062Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/login_user14409031549969602795
+[2m2025-11-28T21:20:52.624072Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m login_user called for user: user1
+[2m2025-11-28T21:20:54.007525Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m login_user completed successfully in 1.383449863s
+[2m2025-11-28T21:28:04.714614Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/get_fuels14409031549969602795
+[2m2025-11-28T21:28:04.714639Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/buy_fuel14409031549969602795
+[2m2025-11-28T21:28:04.714656Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/update_fuel_price14409031549969602795
+[2m2025-11-28T21:28:04.714663Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/fetch_fuel_prices14409031549969602795
+[2m2025-11-28T21:28:04.714670Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/register_user14409031549969602795
+[2m2025-11-28T21:28:04.714680Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/get_bank_info14409031549969602795
+[2m2025-11-28T21:28:04.714687Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/refill_fuel14409031549969602795
+[2m2025-11-28T21:28:04.714694Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/login_admin14409031549969602795
+[2m2025-11-28T21:28:04.714705Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/login_user14409031549969602795
+[2m2025-11-28T21:28:45.868361Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m login_user called for user: user1
+[2m2025-11-28T21:28:46.395787Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m login_user completed successfully in 527.428308ms
+[2m2025-11-28T21:29:11.751543Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"admin"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m login_user called for user: admin
+[2m2025-11-28T21:29:11.751642Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"admin"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m login_user failed in 97.906µs
+[2m2025-11-28T21:29:42.700782Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m login_user called for user: user1
+[2m2025-11-28T21:29:43.277437Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m login_user completed successfully in 576.653732ms
+[2m2025-11-28T21:34:12.819851Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/get_fuels14409031549969602795
+[2m2025-11-28T21:34:12.819865Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/buy_fuel14409031549969602795
+[2m2025-11-28T21:34:12.819871Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/update_fuel_price14409031549969602795
+[2m2025-11-28T21:34:12.819874Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/fetch_fuel_prices14409031549969602795
+[2m2025-11-28T21:34:12.819878Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/register_user14409031549969602795
+[2m2025-11-28T21:34:12.819882Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/get_bank_info14409031549969602795
+[2m2025-11-28T21:34:12.819885Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/refill_fuel14409031549969602795
+[2m2025-11-28T21:34:12.819889Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/login_admin14409031549969602795
+[2m2025-11-28T21:34:12.819894Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/login_user14409031549969602795
+[2m2025-11-28T21:35:20.368466Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m""[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m login_user called for user: 
+[2m2025-11-28T21:35:20.368478Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m""[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m Rate limit check: 2.192µs
+[2m2025-11-28T21:35:20.368608Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m""[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m DB SELECT query: 126.482µs
+[2m2025-11-28T21:35:20.637601Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m""[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m bcrypt verify: 268.984774ms
+[2m2025-11-28T21:35:20.637614Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m""[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m login_user failed in 269.149614ms
+[2m2025-11-28T21:35:27.775888Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m login_user called for user: user1
+[2m2025-11-28T21:35:27.775901Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m Rate limit check: 956ns
+[2m2025-11-28T21:35:27.775994Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m DB SELECT query: 89.787µs
+[2m2025-11-28T21:35:28.045836Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m bcrypt verify: 269.830756ms
+[2m2025-11-28T21:35:28.045859Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m Token generation: 10.905µs
+[2m2025-11-28T21:35:28.449067Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m DB UPDATE query: 403.196625ms
+[2m2025-11-28T21:35:28.449099Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m login_user completed successfully in 673.210921ms
+[2m2025-11-28T21:36:25.641772Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m login_user called for user: user1
+[2m2025-11-28T21:36:25.641829Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m Rate limit check: 2.562µs
+[2m2025-11-28T21:36:25.642075Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m DB SELECT query: 233.017µs
+[2m2025-11-28T21:36:25.934339Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m bcrypt verify: 292.242436ms
+[2m2025-11-28T21:36:25.934359Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m Token generation: 6.997µs
+[2m2025-11-28T21:36:26.599697Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m DB UPDATE query: 665.33168ms
+[2m2025-11-28T21:36:26.599720Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m login_user completed successfully in 957.95086ms
+[2m2025-11-28T21:45:31.723750Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/get_fuels14409031549969602795
+[2m2025-11-28T21:45:31.723777Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/buy_fuel14409031549969602795
+[2m2025-11-28T21:45:31.723785Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/update_fuel_price14409031549969602795
+[2m2025-11-28T21:45:31.723803Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/fetch_fuel_prices14409031549969602795
+[2m2025-11-28T21:45:31.723809Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/register_user14409031549969602795
+[2m2025-11-28T21:45:31.723818Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/get_bank_info14409031549969602795
+[2m2025-11-28T21:45:31.723824Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/refill_fuel14409031549969602795
+[2m2025-11-28T21:45:31.723830Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/login_admin14409031549969602795
+[2m2025-11-28T21:45:31.723840Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/login_user14409031549969602795
+[2m2025-11-28T22:00:43.699776Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m login_user called for user: user1
+[2m2025-11-28T22:00:43.699815Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m Rate limit check: 2.055µs
+[2m2025-11-28T22:00:44.087924Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m DB SELECT query: 388.097547ms
+[2m2025-11-28T22:00:44.392767Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m bcrypt verify: 304.802094ms
+[2m2025-11-28T22:00:44.392805Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m Token generation: 25.104µs
+[2m2025-11-28T22:00:44.491162Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m DB UPDATE query: 98.350308ms
+[2m2025-11-28T22:00:44.491455Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m login_user completed successfully in 791.681491ms
+[2m2025-11-28T22:02:21.511281Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m login_user called for user: user1
+[2m2025-11-28T22:02:21.511290Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m Rate limit check: 815ns
+[2m2025-11-28T22:02:21.511377Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m DB SELECT query: 84.018µs
+[2m2025-11-28T22:02:21.789510Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m bcrypt verify: 278.123515ms
+[2m2025-11-28T22:02:21.789529Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m Token generation: 5.9µs
+[2m2025-11-28T22:02:22.157213Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m DB UPDATE query: 367.673369ms
+[2m2025-11-28T22:02:22.157250Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m login_user completed successfully in 645.969774ms
+[2m2025-11-28T22:15:01.984696Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/get_fuels14409031549969602795
+[2m2025-11-28T22:15:01.984743Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/buy_fuel14409031549969602795
+[2m2025-11-28T22:15:01.984768Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/update_fuel_price14409031549969602795
+[2m2025-11-28T22:15:01.984825Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/fetch_fuel_prices14409031549969602795
+[2m2025-11-28T22:15:01.984841Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/register_user14409031549969602795
+[2m2025-11-28T22:15:01.984853Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/get_bank_info14409031549969602795
+[2m2025-11-28T22:15:01.984864Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/refill_fuel14409031549969602795
+[2m2025-11-28T22:15:01.984888Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/login_admin14409031549969602795
+[2m2025-11-28T22:15:01.984910Z[0m [32m INFO[0m [2mdioxus_server::server[0m[2m:[0m Registering server function: POST /api/login_user14409031549969602795
+[2m2025-11-28T22:16:55.122147Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m login_user called for user: user1
+[2m2025-11-28T22:16:55.122182Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m Rate limit check: 3.798µs
+[2m2025-11-28T22:16:55.122493Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m DB SELECT query: 298.438µs
+[2m2025-11-28T22:16:55.418246Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m bcrypt verify: 295.731071ms
+[2m2025-11-28T22:16:55.418267Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m Token generation: 8.416µs
+[2m2025-11-28T22:16:55.418357Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m DB UPDATE query: 86.984µs
+[2m2025-11-28T22:16:55.418363Z[0m [32m INFO[0m [1mlogin_user[0m[1m{[0m[3mlogin_str[0m[2m=[0m"user1"[1m}[0m[2m:[0m [2mgas_station_experimental[0m[2m:[0m login_user completed successfully in 296.222716ms

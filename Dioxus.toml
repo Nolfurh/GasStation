@@ -1,0 +1,21 @@
+[application]
+
+[web.app]
+
+# HTML title tag content
+title = "gas_station_experimental"
+
+# include `assets` in web platform
+[web.resource]
+
+# Additional CSS style files
+style = ["assets/style.css"]
+
+# Additional JavaScript files
+script = []
+
+[web.resource.dev]
+
+# Javascript code file
+# serve: [dev-server] only
+script = []

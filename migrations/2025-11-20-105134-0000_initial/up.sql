@@ -1,0 +1,34 @@
+-- Your SQL goes here
+CREATE TABLE admin (
+    id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+    login VARCHAR NOT NULL UNIQUE,
+    password VARCHAR NOT NULL,
+    salt VARCHAR NOT NULL
+);
+
+CREATE TABLE bank (
+    id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+    total BIGINT NOT NULL DEFAULT 0 -- Зберігаємо в копійках
+);
+
+CREATE TABLE customer (
+    id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+    login VARCHAR NOT NULL UNIQUE,
+    password VARCHAR NOT NULL,
+    salt VARCHAR NOT NULL,
+    balance BIGINT NOT NULL DEFAULT 0 -- Зберігаємо в копійках
+);
+
+CREATE TABLE fuel (
+    id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+    name VARCHAR NOT NULL,
+    price BIGINT NOT NULL -- Ціна за літр у копійках
+);
+
+CREATE TABLE tank (
+    id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+    fuelid INTEGER NOT NULL,
+    stored INTEGER NOT NULL DEFAULT 0,
+    capacity INTEGER NOT NULL,
+    FOREIGN KEY (fuelid) REFERENCES fuel(id)
+);

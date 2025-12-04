@@ -1,0 +1,74 @@
+curl 'http://127.0.0.1:8080/api/get_fuels14409031549969602795' \
+  -X POST \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:145.0) Gecko/20100101 Firefox/145.0' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.5' \
+  -H 'Accept-Encoding: gzip, deflate, br, zstd' \
+  -H 'Referer: http://127.0.0.1:8080/' \
+  -H 'x-request-client: dioxus' \
+  -H 'Origin: http://127.0.0.1:8080' \
+  -H 'Sec-GPC: 1' \
+  -H 'Connection: keep-alive' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'Priority: u=0' \
+  -H 'Content-Length: 0'
+  
+  
+  
+  curl 'http://127.0.0.1:8080/api/login_user14409031549969602795' \
+  -X POST \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:145.0) Gecko/20100101 Firefox/145.0' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.5' \
+  -H 'Accept-Encoding: gzip, deflate, br, zstd' \
+  -H 'Referer: http://127.0.0.1:8080/login' \
+  -H 'content-type: application/json' \
+  -H 'x-request-client: dioxus' \
+  -H 'Origin: http://127.0.0.1:8080' \
+  -H 'Sec-GPC: 1' \
+  -H 'Connection: keep-alive' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'Priority: u=0' \
+  --data-raw '{"login_str":"user1","pass_str":"1234"}'
+
+
+
+
+
+  curl 'http://127.0.0.1:8080/api/login_user14409031549969602795' \
+  -X POST \
+  --data-raw '{"login_str":"user1","pass_str":"1234"}'
+  
+  
+  curl 'http://127.0.0.1:8080/api/get_fuels14409031549969602795' \
+  -X POST
+  
+  
+  curl 'http://127.0.0.1:8080/api/buy_fuel14409031549969602795' \
+  -X POST \
+  --data-raw '{"user_id":2,"fuel_id":2,"amount_needed":1}'
+
+
+curl 'http://127.0.0.1:8080/api/buy_fuel14409031549969602795' \
+  -X POST \
+  --data-raw '{"user_id":2,"fuel_id":5,"amount_needed":1,"token_str":"3b87a4607535334a57f65e1217c6c76309feae423995d40ef142749314ba3eb1"}'
+  
+  
+  curl 'http://127.0.0.1:8080/api/refill_fuel14409031549969602795' \
+  -X POST \
+  --data-raw '{"fuel_id":2,"amount":10,"token_str":"1ac2fee1dbab2d1902e2cba31f7d699175eebd4b67f2d7cd084bfebcf897aba6"}'
+  
+  curl 'http://127.0.0.1:8080/api/update_fuel_price14409031549969602795' \
+  -X POST \
+  --data-raw '{"fuel_id":4,"new_price":5295,"token_str":"13e6a1fd3a602d3b488b54539cb8753519d5d95f4a0fb7385a853c52420df00e"}'
+
+
+curl 'http://127.0.0.1:8080/api/buy_fuel_batch14409031549969602795' \
+  -X POST \
+  --data-raw '{"user_id":2,"items":[[0,1]],"token_str":"002834d3ba57ad3940b0a7d6e82b76faa23902bb9e55b024b1e66829001fc5f6"}'
+  
+  
