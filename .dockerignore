@@ -6,3 +6,5 @@ target/
 *.db-wal
 node_modules/
 dist/
+
+!gas_station.db

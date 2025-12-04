@@ -49,6 +49,27 @@ fn main() {
             println!("LOG: .env not found: {}", e);
         }
 
+        use std::path::Path;
+        use std::fs;
+
+        let db_path = "/app/data/gas_station.db";// Шлях на Volume
+        let seed_path = "/station.db";// Шлях з Docker image
+
+        if Path::new(seed_path).exists() {
+            if !Path::new(db_path).exists() {
+                println!("Init: База даних не знайдена на диску. Копіюємо шаблон...");
+                match fs::copy(seed_path, db_path) {
+                    Ok(_) => println!("Init: Шаблон успішно скопійовано!"),
+                    Err(e) => println!("Init: Помилка копіювання шаблону: {}", e),
+                }
+            } else {
+                println!("Init: База даних вже існує. Використовуємо поточні дані.");
+            }
+        } else {
+            println!("Init: Шаблон бази (seed) не знайдено в образі.");
+        }
+
+
         use axum::routing::get;
         use tower::ServiceBuilder;
 
@@ -87,9 +108,8 @@ mod test_api {
     use super::*;
     use axum::response::IntoResponse;
 
-    // Тест на читання (легкий)
+    // Тестування отримання пального з БД
     pub async fn test_read_fuels() -> impl IntoResponse {
-        // Ми просто викликаємо вашу існуючу функцію get_fuels
         match get_fuels_unblocked().await {
             Ok(list) => format!("OK: Found {} items", list.len()),
             Err(e) => format!("Error: {}", e),

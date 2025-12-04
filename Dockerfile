@@ -24,6 +24,7 @@ COPY Cargo.toml Cargo.lock Dioxus.toml ./
 COPY src ./src
 COPY assets ./assets
 COPY migrations ./migrations
+COPY gas_station.db ./gas_station.db
 
 # 6a. Будуємо клієнтську частину (WASM)
 RUN dx build --release --features web --platform web
