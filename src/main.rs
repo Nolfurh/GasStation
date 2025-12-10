@@ -443,7 +443,7 @@ async fn buy_fuel(
             return Err(ServerFnError::new("Недостатньо коштів на балансі"));
         }
 
-        // Виконуємо транзакцію
+        // Транзакція
         conn.transaction::<i64, diesel::result::Error, _>(|conn| {
             if !is_electricity {
                 let mut remaining_to_take = amount_needed;
@@ -1067,28 +1067,10 @@ fn FuelCard(props: models::FuelCardProps) -> Element {
 
 #[component]
 fn About() -> Element {
+    const ABOUT_HTML: &str = include_str!("../assets/about.html");
     rsx! {
-        div { class: "page-container",
-            div { class: "content-card",
-                h2 { "Про компанію GasStation" }
-                p { style: "text-align: justify; line-height: 1.6; color: #4b5563;",
-                    "GasStation - це інноваційна мережа автозаправних станцій, що поєднує традиційні види пального з сучасними технологіями зарядки електромобілів. Ми прагнемо забезпечити наших клієнтів найвищою якістю обслуговування та зручністю."
-                }
-                div { style: "display: flex; gap: 20px; margin-top: 20px; justify-content: center; flex-wrap: wrap;",
-                    div { style: "text-align: center; flex: 1; min-width: 100px;",
-                        h3 { style: "color: #2563eb; margin-bottom: 5px;", "50+" }
-                        p { style: "font-size: 0.9rem;", "Станцій по країні" }
-                    }
-                    div { style: "text-align: center; flex: 1; min-width: 100px;",
-                        h3 { style: "color: #2563eb; margin-bottom: 5px;", "24/7" }
-                        p { style: "font-size: 0.9rem;", "Працюємо для вас" }
-                    }
-                    div { style: "text-align: center; flex: 1; min-width: 100px;",
-                        h3 { style: "color: #2563eb; margin-bottom: 5px;", "100%" }
-                        p { style: "font-size: 0.9rem;", "Якість пального" }
-                    }
-                }
-            }
+        div {
+            dangerous_inner_html: "{ABOUT_HTML}"
         }
     }
 }
